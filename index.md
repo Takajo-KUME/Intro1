@@ -4,16 +4,10 @@
 山口　太郎　
 [editor on GitHub](https://www.google.com/) to maintain and preview the content for your website in Markdown files.
 
-# Header 1
-## Header 2
-### Header 3
-
-- 授業　電気工学
-　　　　基礎電気
+# 授業
+　　　データ構造とアルゴリズム
+　　　基礎電気
     
-- List
-
-1. 趣味
-2. ボルダリング
-
-**Bold** and _Italic_ and `Code` text
+# 趣味
+     ボルダリング
+     
