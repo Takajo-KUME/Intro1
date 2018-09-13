@@ -2,7 +2,7 @@
 　　川口大学　　2020.8.22
 
 山口　太郎　
-[editor on GitHub](https://github.com/Takajo-KUME/Intro1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://www.google.com/) to maintain and preview the content for your website in Markdown files.
 
 # Header 1
 ## Header 2
