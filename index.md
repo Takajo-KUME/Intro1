@@ -4,6 +4,7 @@
 山口　太郎　
 [editor on GitHub](https://www.google.com/) to maintain and preview the content for your website in Markdown files.
 
+![karumia](http://bx00-150.jpg/)
 # 授業
 　　　データ構造とアルゴリズム
 　　　基礎電気
