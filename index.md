@@ -19,4 +19,4 @@
 google > "https://www.google.com/"   
 
 これは<span style="color: red; ">赤文字</span>です
-     
+ <font color="Red">赤色</font>    です
