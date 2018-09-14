@@ -7,7 +7,8 @@
 |---|---|
 |![](inu.jpg)|![](bx00-150.jpg)|
 
-<img src="suzuran.jpg" alt="すずらん" title="
+<img src="suzuran.jpg" alt="すずらん" title="すずらん" width="200" height="200" />
+
 ## 授業
 　　　データ構造とアルゴリズム
 　　　基礎電気
