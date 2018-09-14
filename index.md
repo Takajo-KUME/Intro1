@@ -16,5 +16,7 @@
 ## 趣味
      ボルダリング 
      
-google > "https://www.google.com/"     
+google > "https://www.google.com/"   
+
+これは<span style="color: red; ">赤文字</span>です
      
